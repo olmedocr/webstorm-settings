@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ec2-34-240-16-177.eu-west-1.compute.amazonaws.com" id="feb798e6-8799-4490-8067-87e12f4a2cac" keyPath="$USER_HOME$/Development/Keys/webel-dev-cert.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</application>
