@@ -1,5 +1,5 @@
 <application>
   <component name="OverrideFileTypeManager">
-    <file url="file://$USER_HOME$/Development/sls-api/common/builders/professionalFilter/professionalAvailabilityFilter.js" value="JavaScript" />
+    <file url="file://$USER_HOME$/Development/sls-api/src/common/builders/professionalFilter/professionalAvailabilityFilter.js" value="JavaScript" />
   </component>
 </application>
