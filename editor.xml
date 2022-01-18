@@ -9,8 +9,15 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
-    <pattern icon="important" pattern="\bfixme\b.*" />
-    <pattern icon="question" pattern="\bquestion\b.*" />
-    <pattern pattern="\bwip\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="f26522" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" pattern="\bquestion\b.*">
+      <option name="FOREGROUND" value="61b442" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
   </component>
 </application>
