@@ -15,9 +15,10 @@
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
     <pattern icon="question" useCustomColors="true" pattern="\bquestion\b.*">
-      <option name="FOREGROUND" value="61b442" />
+      <option name="FOREGROUND" value="61b443" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
+    <pattern pattern="\bwip\b.*" />
   </component>
 </application>

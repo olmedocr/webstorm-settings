@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="professionalAvailabilityFilter.js" type="AUTO_DETECTED" />
       <mapping pattern="" type="JavaScript" />
+      <mapping ext="gpx" type="XML" />
+      <mapping ext="xcscheme" type="XML" />
     </extensionMap>
   </component>
 </application>
